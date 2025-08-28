@@ -1,0 +1,226 @@
+# Product Compatibility Sheet: Halteöse Hutablage Ersatzkit
+
+## Compatible Models
+
+| Marke | Modell | Baujahr | Plattform | Typ | Motor | Einschränkungen |
+|-------|--------|---------|-----------|-----|-------|----------------|
+| BMW | 1er | 2011/01-2011/12 | E81 | 116d | 1995 ccm, 66 KW, 90 PS |  |
+| BMW | 1er | 2008/11-2011/12 | E81 | 116d | 1995 ccm, 85 KW, 116 PS |  |
+| BMW | 1er | 2008/11-2011/12 | E81 | 116i | 1995 ccm, 90 KW, 122 PS |  |
+| BMW | 1er | 2007/03-2011/12 | E81 | 116i | 1599 ccm, 90 KW, 122 PS |  |
+| BMW | 1er | 2007/09-2011/12 | E81 | 116i | 1596 ccm, 85 KW, 115 PS |  |
+| BMW | 1er | 2006/09-2011/12 | E81 | 118d | 1995 ccm, 100 KW, 136 PS |  |
+| BMW | 1er | 2006/09-2011/12 | E81 | 118d | 1995 ccm, 105 KW, 143 PS |  |
+| BMW | 1er | 2006/09-2011/12 | E81 | 118i | 1995 ccm, 100 KW, 136 PS |  |
+| BMW | 1er | 2006/09-2011/12 | E81 | 118i | 1995 ccm, 105 KW, 143 PS |  |
+| BMW | 1er | 2006/09-2008/02 | E81 | 118i | 1995 ccm, 95 KW, 129 PS |  |
+| BMW | 1er | 2007/03-2011/12 | E81 | 120d | 1995 ccm, 145 KW, 197 PS |  |
+| BMW | 1er | 2007/03-2011/12 | E81 | 120d | 1995 ccm, 120 KW, 163 PS |  |
+| BMW | 1er | 2007/03-2011/12 | E81 | 120d | 1995 ccm, 130 KW, 177 PS |  |
+| BMW | 1er | 2007/03-2011/12 | E81 | 120i | 1995 ccm, 115 KW, 156 PS |  |
+| BMW | 1er | 2007/03-2011/12 | E81 | 120i | 1995 ccm, 120 KW, 163 PS |  |
+| BMW | 1er | 2007/03-2012/09 | E81 | 120i | 1995 ccm, 125 KW, 170 PS |  |
+| BMW | 1er | 2007/03-2011/12 | E81 | 123d | 1995 ccm, 150 KW, 204 PS |  |
+| BMW | 1er | 2006/09-2011/12 | E81 | 130i | 2996 ccm, 195 KW, 265 PS |  |
+| BMW | 1er | 2006/09-2011/12 | E81 | 130i | 2996 ccm, 190 KW, 258 PS |  |
+| BMW | 1er | 2009/03-2011/06 | E87 | 116d | 1995 ccm, 85 KW, 116 PS |  |
+| BMW | 1er | 2007/09-2011/06 | E87 | 116i | 1599 ccm, 90 KW, 122 PS |  |
+| BMW | 1er | 2004/06-2011/06 | E87 | 116i | 1596 ccm, 85 KW, 115 PS |  |
+| BMW | 1er | 2009/01-2011/06 | E87 | 116i | 1995 ccm, 90 KW, 122 PS |  |
+| BMW | 1er | 2007/03-2011/06 | E87 | 118d | 1995 ccm, 105 KW, 143 PS |  |
+| BMW | 1er | 2004/06-2007/02 | E87 | 118d | 1995 ccm, 90 KW, 122 PS |  |
+| BMW | 1er | 2007/03-2011/06 | E87 | 118d | 1995 ccm, 100 KW, 136 PS |  |
+| BMW | 1er | 2007/03-2007/12 | E87 | 118i | 1995 ccm, 125 KW, 170 PS |  |
+| BMW | 1er | 2006/09-2011/06 | E87 | 118i | 1995 ccm, 105 KW, 143 PS |  |
+| BMW | 1er | 2006/10-2011/06 | E87 | 118i | 1995 ccm, 100 KW, 136 PS |  |
+| BMW | 1er | 2004/07-2007/02 | E87 | 118i | 1995 ccm, 95 KW, 129 PS |  |
+| BMW | 1er | 2004/06-2011/06 | E87 | 120d | 1995 ccm, 120 KW, 163 PS |  |
+| BMW | 1er | 2004/06-2007/02 | E87 | 120d | 1995 ccm, 110 KW, 150 PS |  |
+| BMW | 1er | 2007/03-2011/06 | E87 | 120d | 1995 ccm, 130 KW, 177 PS |  |
+| BMW | 1er | 2007/03-2011/06 | E87 | 120i | 1995 ccm, 120 KW, 163 PS |  |
+| BMW | 1er | 2007/03-2011/06 | E87 | 120i | 1995 ccm, 115 KW, 156 PS |  |
+| BMW | 1er | 2007/03-2011/06 | E87 | 120i | 1995 ccm, 125 KW, 170 PS |  |
+| BMW | 1er | 2004/06-2007/02 | E87 | 120i | 1995 ccm, 110 KW, 150 PS |  |
+| BMW | 1er | 2007/03-2011/06 | E87 | 123d | 1995 ccm, 150 KW, 204 PS |  |
+| BMW | 1er | 2005/09-2007/02 | E87 | 130i | 2996 ccm, 195 KW, 265 PS |  |
+| BMW | 1er | 2007/03-2011/06 | E87 | 130极 | 2996 ccm, 190 KW, 258 PS |  |
+| BMW | 1er | 2012/11-2015/06 | F20 | 114d | 1598 ccm, 70 KW, 95 PS |  |
+| BMW | 1er | 2015/07-2019/06 | F20 | 114d | 1496 ccm, 70 KW, 95 PS |  |
+| BMW | 1er | 2012/07-2015/02 | F20 | 114i | 1598 ccm, 75 KW, 102 PS |  |
+| BMW | 1er | 2015/03-2019/06 | F20 | 116d | 1496 ccm, 85 KW, 116 PS |  |
+| BMW | 1er | 2011/07-2015/02 | F20 | 116d | 1995 ccm, 85 KW, 116 PS |  |
+| BMW | 1er | 2012/03-2015/02 | F20 | 116d | 1598 ccm, 85 KW, 116 PS |  |
+| BMW | 1er | 2011/07-2015/02 | F20 | 116i | 1598 ccm, 100 KW, 136 PS |  |
+| BMW | 1er | 2011/07-2015/02 | F20 | 118d | 1995 ccm, 105 KW, 143 PS |  |
+| BMW | 1er | 2011/07-2019/06 | F20 | 118d | 1995 ccm, 100 KW, 136 PS |  |
+| BMW | 1er | 2015/03-2019/06 | F20 | 118d xDrive | 1995 ccm, 110 KW, 150 PS |  |
+| BMW | 1er | 2013/07-2015/02 | F20 | 118d xDrive | 1995 ccm, 105 KW, 143 PS |  |
+| BMW | 1er | 2015/03-2015/06 | F20 | 118i | 1598 ccm, 100 KW, 136 PS |  |
+| BMW | 1er | 2011/07-2015/02 | F20 | 118i | 1598 ccm, 125 KW, 170 PS |  |
+| BMW | 1er | 2011/07-2015/02 | F20 | 120d | 1995 ccm, 135 KW, 184 PS |  |
+| BMW | 1er | 2011/极-2019/06 | F20 | 120d | 1995 ccm, 120 KW, 163 PS |  |
+| BMW | 1er | 2011/07-2015/02 | F20 | 120d | 1995 ccm, 147 KW, 200 PS |  |
+| BMW | 1er | 2012/11-2015/02 | F20 | 120d xDrive | 1995 ccm, 147 KW, 200 PS |  |
+| BMW | 1er | 2015/03-2016/06 | F20 | 120i | 1598 ccm, 130 KW, 177 PS |  |
+| BMW | 1er | 2016/07-2019/06 | F20 | 120i | 1998 ccm, 135 KW, 184 PS |  |
+| BMW | 1er | 2015/03-2019/06 | F20 | 125d | 1995 ccm, 165 KW, 224 PS |  |
+| BMW | 1er | 2012/03-2015/02 | F20 | 125d | 1995 ccm, 160 KW, 218 PS |  |
+| BMW | 1er | 2012/03-2019/06 | F20 | 125d | 1995 ccm, 155 KW, 211 PS |  |
+| BMW | 1极 | 2012/03-2017/11 | F20 | 125i | 1997 ccm, 160 KW, 218 PS |  |
+| BMW | 1er | 2012/03-2017/11 | F20 | 125i | 1997 ccm, 175 KW, 238 PS |  |
+| BMW | 1er | 2016/07-2019/06 | F20 | 125i | 1998 ccm, 165 KW, 224 PS |  |
+| BMW | 1er | 2015/03-2017/11 | F20 | 125i Active Flex | 1997 ccm, 160 KW, 218 PS |  |
+| BMW | 1er | 2012/07-2015/02 | F20 | M 135i | 2979 ccm, 235 KW, 320 PS |  |
+| BMW | 1er | 2012/11-2015/02 | F20 | M 135i xDrive | 2979 ccm, 235 KW, 320 PS |  |
+| BMW | 1er | 2016/07-2019/06 | F20 | M 140i | 2998 ccm, 250 KW, 340 PS |  |
+| BMW | 1er | 2012/07-2019/05 | F21 | 114d | 1598 ccm, 70 KW, 95 PS |  |
+| BMW | 1er | 2015/06-2019/05 | F21 | 114d | 1496 ccm, 70 KW, 95 PS |  |
+| BMW | 1er | 2012/07-2015/01 | F21 | 114i | 1598 ccm, 75 KW, 102 PS |  |
+| BMW | 1er | 2015/03-2019/05 | F21 | 116d | 1496 ccm, 85 KW, 116 PS |  |
+| BMW | 1er | 2011/12-2015/02 | F21 | 116d | 1598 ccm, 85 KW, 116 PS |  |
+| BMW | 1er | 2012/07-2015/02 | F21 | 116d | 1995 ccm, 85 KW, 116 PS |  |
+| BMW | 1er | 2015/03-2019/06 | F21 | 116i | 1499 ccm, 80 KW, 109 PS |  |
+| BMW | 1er | 2011/12-2015/02 | F21 | 116i | 1598 ccm, 100 KW, 136 PS |  |
+| BMW | 1er | 2011/12-2019/06 | F21 | 118d | 1995 ccm, 100 KW, 136极 |  |
+| BMW | 1er | 2015/03-2019/06 | F21 | 118d | 1995 ccm, 110 KW, 150 PS |  |
+| BMW | 1er | 2011/12-2015/02 | F21 | 118d | 1995 ccm, 105 KW, 143 PS |  |
+| BMW | 1er | 2015/03-2019/05 | F21 | 118d xDrive | 1995 ccm, 110 KW, 150 PS |  |
+| BMW | 1er | 2013/05-2015/02 | F21 | 118d xDrive | 1995 ccm, 105 KW, 143 PS |  |
+| BMW | 1er | 2015/03-2019/06 | F21 | 118i | 1598 ccm, 100 KW, 136 PS |  |
+| BMW | 1er | 2012/07-2019/06 | F21 | 118i | 1598 ccm, 125 KW, 170 PS |  |
+| BMW | 1er | 2015/03-2019/06 | F21 | 118i | 1499 ccm, 100 KW, 136 PS |  |
+| BMW | 1er | 2012/01-2015/02 | F21 | 120d | 1995 ccm, 147 KW, 200 PS |  |
+| BMW | 1er | 2012/07-2015/02 | F21 | 120d | 1995 ccm, 135 KW, 184 PS |  |
+| BMW | 1er | 2015/03-2019/06 | F21 | 120d | 1995 ccm, 151 KW, 205 PS |  |
+| BMW | 1er | 2012/07-2019/06 | F21 | 120d | 1995 ccm, 120 KW, 163 PS |  |
+| BMW | 1er | 2015/03-2019/06 | F21 | 120d | 1995 ccm, 140 KW, 190 PS |  |
+| BMW | 1er | 2015/03-2019/06 | F21 | 120d xDrive | 1995 ccm, 140 KW, 190 PS |  |
+| BMW | 1er | 2012/02-2015/02 | F21 | 120d xDrive | 1995 ccm, 135 KW, 184 PS |  |
+| BMW | 1er | 2015/03-2019/06 | F21 | 120d xDrive | 1995 ccm, 151 KW, 205 PS |  |
+| BMW | 1er | 2012/01-2015/02 | F21 | 120d xDrive | 1995 ccm, 147 KW, 200 PS |  |
+| BMW | 1er | 2015/03-2019/06 | F21 | 120i | 1598 ccm, 130 KW, 177 PS |  |
+| BMW | 1er | 2016/07-2019/06 | F21 | 120i | 1998 ccm, 135 KW, 184 PS |  |
+| BMW | 1er | 2011/12-2015/02 | F21 | 125d | 1995 ccm, 160 KW, 218 PS |  |
+| BMW | 1er | 2011/12-2019/05 | F21 | 125d | 1995 ccm, 155 KW, 211 PS |  |
+| BMW | 1er | 2015/03-2019/05 | F21 | 125极 | 1995 ccm, 165 KW, 224 PS |  |
+| BMW | 1er | 2011/12-2019/12 | F21 | 125i | 1997 ccm, 160 KW, 218 PS |  |
+| BMW | 1er | 2015/10-2019/06 | F21 | 125i | 1998 ccm, 165 KW, 224 PS |  |
+| BMW | 1er | 2013/03-2019/06 | F21 | 125i | 1997 ccm, 175 KW, 238 PS |  |
+| BMW | 1er | 2015/03-2016/06 | F21 | M 135i | 2979 ccm, 240 KW, 326 PS |  |
+| BMW | 1er | 2011/12-2016/06 | F21 | M 135i | 2979 ccm, 235 KW, 320 PS |  |
+| BMW | 1er | 2012/02-2016/06 | F21 | M 135i xDrive | 2979 ccm, 235 KW, 320 PS |  |
+| BMW | 1er | 2015/03-2016/06 | F21 | M 135i xDrive | 2979 ccm, 240 KW, 326 PS |  |
+| BMW | 1er | 2015/10-2019/06 | F21 | M 140i | 2998 ccm, 250 KW, 340 PS |  |
+| BMW | 1er | 2015/09-2019/06 | F21 | M 140i xDrive | 2998 ccm, 250 KW, 340极 |  |
+| BMW | 1er | 2019/07-2025/12 | F40 | 116d | 1496 ccm, 85 KW, 116 PS |  |
+| BMW | 1er | 2020/11-2025/12 | F40 | 116i | 1499 ccm, 80 KW, 109 PS |  |
+| BMW | 1er | 2019/07-2025/12 | F40 | 118d | 1995 ccm, 100 KW, 136 PS |  |
+| BMW | 1er | 2019/07-2025/12 | F40 | 118d | 1995 ccm, 110 KW, 150 PS |  |
+| BMW | 1er | 2019/07-2025/12 | F40 | 118i | 1499 ccm, 103 KW, 140 PS |  |
+| BMW | 1er | 2020/11-2025/12 | F40 | 118i | 1499 ccm, 100 KW, 136 PS |  |
+| BMW | 1er | 2020/03-2025/12 | F40 | 120d | 1995 ccm, 140 KW, 190 PS |  |
+| BMW | 1er | 2019/07-2025/12 | F40 | 120d xDrive | 1995 ccm, 140 KW, 190 PS |  |
+| BMW | 1er | 2020/11-2025/12 | F40 | 120i | 1998 ccm, 131 KW, 178 PS |  |
+| BMW | 1er | 2020/11-2025/12 | F40 | 128 Ti | 1998 ccm, 180 KW, 245 PS |  |
+| BMW | 1er | 2020/11-2025/12 | F40 | 128 Ti | 1998 ccm, 195 KW, 265 PS |  |
+| BMW | 1er | 2019/07-2025/12 | F40 | M 135i xDrive | 1998 ccm, 225 KW, 306 PS |  |
+| BMW | 2 Active Tourer | 2014/07-2018/02 | F45 | 214d | 1496 ccm, 70 KW, 95 PS |  |
+| BMW | 2 Active Tourer | 2014/03-2021/10 | F45 | 216d | 1496 ccm, 85 KW, 116 PS |  |
+| BMW | 2 Active Tourer | 2018/03-2021/10 | F45 | 216i | 1499 ccm, 80 KW, 109 PS |  |
+| BMW | 2 Active Tourer | 2015/02-2018/02 | F45 | 216i | 1499 ccm, 75 KW, 102 PS |  |
+| BMW | 2 Active Tourer | 2013/11-2021/10 | F45 | 218d | 1995 ccm, 110 KW, 150 PS |  |
+| BMW | 2 Active Tourer | 2013/11-2021/10 | F45 | 218d | 1995 ccm, 100 KW, 136 PS |  |
+| BMW | 2 Active Tourer | 2014/12-2021/10 | F45 | 218d xDrive | 1995 ccm, 100 KW, 136 PS |  |
+| BMW | 2 Active Tourer | 2014/12-2021/10 | F45 | 218d xDrive | 1995 ccm, 110 KW, 150 PS |  |
+| BMW | 2 Active Tourer | 2018/03-2021/10 | F45 | 218i | 1499 ccm, 103 KW, 140 PS |  |
+| BMW | 2 Active Tourer | 2014/07-2021/10 | F45 | 218i | 1499 ccm, 100 KW, 136 PS |  |
+| BMW | 2 Active Tourer | 2014/03-2021/10 | F45 | 220d | 1995 ccm, 140 KW, 190 PS |  |
+| BMW | 2 Active Tourer | 2014/03-2021/10 | F45 | 220d | 1995 ccm, 120 KW, 163 PS |  |
+| BMW | 2 Active Tourer | 2014/03-2021/10 | F45 | 220d xDrive | 1995 ccm, 140 KW, 190 PS |  |
+| BMW | 2 Active Tourer | 2014/03-2021/10 | F45 | 220d xDrive | 1995 ccm, 120 KW, 163 PS |  |
+| BMW | 2 Active Tourer | 2014/03-2021/10 | F45 | 220i | 1998 ccm, 141 KW, 192 PS |  |
+| BMW | 2 Active Tourer | 2020/11-2021/10 | F45 | 220i | 1998 ccm, 131 KW, 178 PS |  |
+| BMW | 2 Active Tourer | 2014/03-2021/10 | F45 | 220i | 1998 ccm, 120 KW, 163 PS |  |
+| BMW | 2 Active Tourer | 2013/11-2019/12 | F45 | 225i | 1998 ccm, 170 KW, 231 PS |  |
+| BMW | 2 Active Tourer | 2014/03-2021/10 | F45 | 225i xDrive | 1998 ccm, 170 KW, 231 PS |  |
+| BMW | 2 Active Tourer | 2020/11-2021/10 | F45 | 225xe Plug-in-Hybrid | 1499 ccm, 162 KW, 220 PS |  |
+| BMW | 2 Active Tourer | 2014/11-2021/10 | F45 | 225xe Plug-in-Hybrid | 1499 ccm, 165 KW, 224 PS |  |
+| BMW | 2 Active Tourer | 2022/11-2025/12 | U06 | 216i | 1499 ccm, 90 KW, 122 PS |  |
+| BMW | 2 Active Tourer | 2021/11-2025/12 | U06 | 218d | 1995 ccm, 110 KW, 150 PS |  |
+| BMW | 2 Active Tourer | 2022/06-2025/12 | U06 | 218d | 1995 ccm, 100 KW, 136 PS |  |
+| BMW | 2 Active Tourer | 2021/11-2025/12 | U06 | 218i | 1499 ccm, 100 KW, 136极 |  |
+| BMW | 2 Active Tourer | 2021/11-2025/12 | U06 | 220i Mild-Hybrid | 1499 ccm, 125 KW, 170 PS |  |
+| BMW | 2 Active Tourer | 2022/07-2025/12 | U06 | 223d xDrive | 1995 ccm, 155 KW, 211 PS |  |
+| BMW | 2 Active Tourer | 2021/11-2025/12 | U06 | 223i Mild-Hybrid | 1998 ccm, 160 KW, 218 PS |  |
+| BMW | 2 Active Tourer | 2022/03-2025/12 | U06 | 223i Mild-Hybrid xDrive | 1998 ccm, 160 KW, 218 PS |  |
+| BMW | 2 Active Tourer | 2021/11-2025/12 | U06 | 225e xDrive | 1499 ccm, 180 KW, 245 PS |  |
+| BMW | 2 Active Tourer | 2021/11-2025/12 | U06 | 230e xDrive | 1499 ccm, 240 KW, 326 PS |  |
+| BMW | 2 Active Tourer Van | 2014/07-2021/10 | F45 | 218d | 1995 ccm, 110 KW, 150 PS |  |
+| BMW | 2 Active Tourer Van | 2018/03-2021/10 | F45 | 218i | 1499 ccm, 103 KW, 140 PS |  |
+| BMW | 2 Active Tourer Van | 2014/11-2021/10 | F45 | 220d | 1995 ccm, 140 KW, 190 PS |  |
+| BMW | X1 | 2012/04-2015/06 | E84 | sDrive16d | 1995 ccm, 85 KW, 116 PS |  |
+| BMW | X1 | 2013/03-2015/06 | E84 | sDrive16i | 1592 ccm, 105 KW, 143 PS |  |
+| BMW | X1 | 2009/03-2015/06 | E84 | sDrive18d | 1995 ccm, 100 KW, 136 PS |  |
+| BMW | X1 | 2009/12-2015/06 | E84 | sDrive18d | 1995 ccm, 105 KW, 143 PS |  |
+| BMW | X1 | 2010/03-2015/06 | E84 | sDrive18i | 1995 ccm, 100 KW, 136 PS |  |
+| BMW | X1 | 2010/01-2015/06 | E84 | sDrive18i | 1995 ccm, 110 KW, 150 PS |  |
+| BMW | X1 | 2010/03-2015/06 | E84 | sDrive20d | 1995 ccm, 120 KW, 163 PS |  |
+| BMW | X1 | 2012/07-2015/06 | E84 | sDrive20d | 1995 ccm, 135 KW, 184 PS |  |
+| BMW | X1 | 2009/10-2015/06 | E84 | sDrive20d | 1995 ccm, 130 KW, 177 PS |  |
+| BMW | X1 | 2011/09-2015/06 | E84 | sDrive20i | 1997 ccm, 135 KW, 184 PS |  |
+| BMW | X1 | 2012/09-2015/06 | E84 | sDrive28i | 1997 ccm, 180 KW, 245 PS |  |
+| BMW | X1 | 2009/03-2015/06 | E84 | xDrive18d | 1995 ccm, 100 KW, 136 PS |  |
+| BMW | X1 | 2009/10-2015/06 | E84 | xDrive18d | 1995 ccm, 105 KW, 143 PS |  |
+| BMW | X1 | 2009/09-2012/06 | E84 | xDrive20d | 1995 ccm, 130 KW, 177 PS |  |
+| BMW | X1 | 2012/07-2015/06 | E84 | xDrive20d | 1995 ccm, 135 KW, 184 PS |  |
+| BMW | X1 | 2010/03-2015/06 | E84 | xDrive20d | 1995 ccm, 120 KW, 163 PS |  |
+| BMW | X1 | 2011/09-2015/06 | E84 | xDrive20i | 1997 ccm, 135 KW, 184 PS |  |
+| BMW | X1 | 2009/10-2015/06 | E84 | xDrive23d | 1995 ccm, 150 KW, 204 PS |  |
+| BMW | X1 | 2009/10-2015/06 | E84 | xDrive25d | 1995 ccm, 160 KW, 218 PS |  |
+| BMW | X1 | 2010/03-2011/08 | E84 | xDrive25i | 2996 ccm, 160 KW, 218 PS |  |
+| BMW | X1 | 2010/03-2011/06 | E84 | xDrive28i | 2996 ccm, 194 KW, 264 PS |  |
+| BMW | X1 | 2009/09-2011/08 | E84 | xDrive28i | 2996 ccm, 190 KW, 258 PS |  |
+| BMW | X1 | 2011/03-2015/06 | E84 | xDrive28i | 1997 ccm, 180 KW, 245 PS |  |
+| BMW | X1 | 2011/04-2015/06 | E84 | xDrive28i Flex | 1997 ccm, 180 KW, 245 PS |  |
+| BMW | X1 | 2011/03-2015/06 | E84 | xDrive35i | 2979 ccm, 225 KW, 306 PS |  |
+| BMW | X1 | 2014/11-2022/05 | F48 | sDrive16d | 1496 ccm, 85 KW, 116 PS |  |
+| BMW | X1 | 2015/07-2022/06 | F48 | sDrive18d | 1995 ccm, 110 KW, 150 PS |  |
+| BMW | X1 | 2015/07-2022/06 | F48 | sDrive18d | 1995 ccm, 100 KW, 136 PS |  |
+| BMW | X1 | 2017/07-2022/06 | F48 | sDrive18i | 1499 ccm, 103 KW, 140 PS |  |
+| BMW | X1 | 2015/11-2022/06 | F48 | sDrive18i | 1499 ccm, 100 KW, 136 PS |  |
+| BMW | X1 | 2015/11-2022/05 | F48 | sDrive20d | 1995 ccm, 120 KW, 163 PS |  |
+| BMW | X1 | 2015/11-2022/05 | F48 | sDrive20d | 1995 ccm, 140 KW, 190 PS |  |
+| BMW | X1 | 2015/07-2022/06 | F48 | sDrive20i | 1998 ccm, 141 KW, 192 PS |  |
+| BMW | X1 | 2020/11-2022/06 | F48 | sDrive20i | 1998 ccm, 131 KW, 178 PS |  |
+| BMW | X1 | 2014/11-2022/06 | F48 | xDrive18d | 1995 ccm, 110 KW, 150 PS |  |
+| BMW | X1 | 2014/11-2022/06 | F48 | xDrive18d | 1995 ccm, 100 KW, 136 PS |  |
+| BMW | X1 | 2015/07-2022/06 | F48 | xDrive20d | 1995 ccm, 140 KW, 190 PS |  |
+| BMW | X1 | 2015/07-2022/06 | F48 | xDrive20d | 1995 ccm, 120 KW, 163 PS |  |
+| BMW | X1 | 2020/11-2022/06 | F48 | xDrive20i | 1998 ccm, 131 KW, 178 PS |  |
+| BMW | X1 | 2015/07-2022/06 | F48 | xDrive20i | 1998 ccm, 141 KW, 192 PS |  |
+| BMW | X1 | 2014/11-2022/05 | F48 | xDrive25d | 1995 ccm, 170 KW, 231 PS |  |
+| BMW | X1 | 2020/03-2022/06 | F48 | xDrive25e Plug-in-Hybrid | 1499 ccm, 162 KW, 220 PS |  |
+| BMW | X1 | 2020/03-2022/12 | F48 | xDrive25e Plug-in-Hybrid | 1499 ccm, 92 KW, 125 PS |  |
+| BMW | X1 | 2015/07-2021/10 | F48 | xDrive25i | 1998 ccm, 170 KW, 231 PS |  |
+| BMW | X1 | 2023/08-2025/12 | U11 | M35i xDrive | 1998 ccm, 221 KW, 300 PS |  |
+| BMW | X1 | 2023/11-2025/12 | U11 | iX1 eDrive20 | 150 KW, 204 PS |  |
+| BMW | X1 | 2022/11-2024/12 | U11 | iX1 xDrive30 | 200 KW, 272 PS |  |
+| BMW | X1 | 2022/07-2025/12 | U11 | iX1 xDrive30 | 230 KW, 313 PS |  |
+| BMW | X1 | 2022/07-2025/12 | U11 | sDrive18d | 1995 ccm, 100 KW, 136 PS |  |
+| BMW | X1 | 2022/07-2025/12 | U11 | sDrive18d | 1995 ccm, 110 KW, 150 PS |  |
+| BMW | X1 | 2022/07-2025/12 | U11 | sDrive18i | 1499 ccm, 100 KW, 136 PS |  |
+| BMW | X1 | 2022/07-2025/12 | U11 | sDrive18i | 1499 ccm, 115 KW, 156 PS |  |
+| BMW | X1 | 2022/11-2025/12 | U11 | sDrive20i | 1499 ccm, 110 KW, 150 PS |  |
+| BMW | X1 | 2022/11-2025/12 | U11 | sDrive20i Mild-Hybrid | 1499 ccm, 125 KW, 170 PS |  |
+| BMW | X1 | 2022/11-2025/12 | U11 | xDrive20d Mild-Hybrid | 1995 ccm, 120 KW, 163 PS |  |
+| BMW | X1 | 2022/07-2025/12 | U11 | xDrive23d Mild-Hybrid | 1995 ccm, 155 KW, 211 PS |  |
+| BMW | X1 | 2022/07-2025/12 | U11 | xDrive23i Mild-Hybrid | 1998 ccm, 160 KW, 218 PS |  |
+| BMW | X1 | 2022/07-2025/12 | U11 | xDrive25e Plug-in-Hybrid | 1499 ccm, 180 KW, 245 PS |  |
+| BMW | X1 | 2022/07-2025/12 | U11 | xDrive30e Plug-in-Hybrid | 1499 ccm, 240 KW, 326 PS |  |
+| BMW | X1 Van | 2015/07-2022/06 | F48 | sDrive18d | 1995 ccm, 110 KW, 150 PS |  |
+| BMW | X1 Van | 2017/07-2022/06 | F48 | sDrive18i | 1499 ccm, 103 KW, 140 PS |  |
+| BMW | X1 Van | 2015/11-2022/05 | F48 | sDrive20d | 1995 ccm, 140 KW, 190 PS |  |
+| BMW | X1 Van | 2017/07-2022/06 | F48 | sDrive20i | 1998 ccm, 141 KW, 192 PS |  |
+| BMW | X1 Van | 2015/07-2022/06 | F48 | xDrive20d | 1995 ccm, 140 KW, 190 PS |  |
+| BMW | X2 | 2018/11-2023/10 | F39 | M35i | 1998 ccm, 225 KW, 306 PS |  |
+| BMW | X2 | 2018/11-2023/10 | F39 | sDrive16d | 1496 ccm, 85 KW, 116 PS |  |
