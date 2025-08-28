@@ -22,7 +22,8 @@ see PDF [Kompatibilitätsliste](./HK37F-Kompatibilitätsliste.pdf)
 
 If you know of any additional vehicles (especially vehicles by the Mini Group) also using the same parcel shelf attachment system, feel free to append them to the compatibility list.
 
-Finally compile the quarkdown document into a PDF with this:
+Finally compile the [quarkdown](https://github.com/iamgio/quarkdown) document into a PDF with this:
 
 ```bash
-./quarkdown HK37F-Kompatibilitätsliste.qmd --pdf
+./quarkdown c HK37F-Kompatibilitätsliste.qmd --pdf
+```
